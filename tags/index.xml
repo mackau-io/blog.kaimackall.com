@@ -1,1 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Kai's Blog</title><link>https://blog.kaimackall.com/tags/</link><description>Recent Posts in Tags on Kai's Blog</description><generator>Hugo 0.151.0</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 18:41:45 -0600</lastBuildDate><atom:link href="https://blog.kaimackall.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Cybersecurity</title><link>https://blog.kaimackall.com/tags/cybersecurity/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://blog.kaimackall.com/tags/cybersecurity/</guid><description/></item><item><title>Homelab</title><link>https://blog.kaimackall.com/tags/homelab/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://blog.kaimackall.com/tags/homelab/</guid><description/></item><item><title>Tools</title><link>https://blog.kaimackall.com/tags/tools/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://blog.kaimackall.com/tags/tools/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kai&#39;s Blog</title>
+    <link>https://blog.kaimackall.com/tags/</link>
+    <description>Recent Posts in Tags on Kai&#39;s Blog</description>
+    <generator>Hugo 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Nov 2025 19:17:54 -0600</lastBuildDate>
+    <atom:link href="https://blog.kaimackall.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://blog.kaimackall.com/tags/cybersecurity/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.kaimackall.com/tags/cybersecurity/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Homelab</title>
+      <link>https://blog.kaimackall.com/tags/homelab/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.kaimackall.com/tags/homelab/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://blog.kaimackall.com/tags/tools/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.kaimackall.com/tags/tools/</guid>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>
