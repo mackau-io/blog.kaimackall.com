@@ -2,7 +2,7 @@
 set -e
 
 # Build the site
-hugo --config hugo-blog.toml
+hugo
 
 # Go into the public folder
 cd public
