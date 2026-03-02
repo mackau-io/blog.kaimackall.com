@@ -3,36 +3,36 @@
     "nodes": [{
                 "id": "0654d4b272de179fc372b37592cd3553",
                 "title": "Configuring Virtual Machines (VirtualBox)",
-                "permalink": "https://blog.key-blogger.com/posts/configuringvms/",
+                "permalink": "http://localhost:1313/posts/configuringvms/",
                 "type": "post"
             },{
                 "id": "fefa085d47dbfd9bb1c5b445bfea0a1a",
                 "title": "My PC Build and vHomelab: A 6-Month Retrospective",
-                "permalink": "https://blog.key-blogger.com/posts/pcbuildhomelab/",
+                "permalink": "http://localhost:1313/posts/pcbuildhomelab/",
                 "type": "post"
             },
                         {
                             "id": "categories-writeups",
                             "title": "Writeups",
-                            "permalink": "https://blog.key-blogger.com/categories/writeups/",
+                            "permalink": "http://localhost:1313/categories/writeups/",
                             "type": "categories"
                         },
                         {
                             "id": "tags-cybersecurity",
                             "title": "Cybersecurity",
-                            "permalink": "https://blog.key-blogger.com/tags/cybersecurity/",
+                            "permalink": "http://localhost:1313/tags/cybersecurity/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-homelab",
                             "title": "Homelab",
-                            "permalink": "https://blog.key-blogger.com/tags/homelab/",
+                            "permalink": "http://localhost:1313/tags/homelab/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-tools",
                             "title": "Tools",
-                            "permalink": "https://blog.key-blogger.com/tags/tools/",
+                            "permalink": "http://localhost:1313/tags/tools/",
                             "type": "tags"
                         },
     ],
