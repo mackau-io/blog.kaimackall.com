@@ -19,23 +19,21 @@
 <body id="page404">
     <!-- header.html -->
 <header class="pagewidth">
-    <div id="background-header" class="background" aria-hidden="true"></div>
+    <div id="background-header" class="background" aria-hidden="true">
+        <div class="grain" hidden></div>
+    </div>
     
     <nav aria-label="Bypass">
         <a id="to-content" href="#list-posts" aria-label="Skip to Main Content">
             <span>Skip to Main Content</span>
-            <kbd class="key" aria-hidden="true" data-key="c"></kbd>
+            <kbd class="key" aria-hidden="true">c</kbd>
             <span class="screening" aria-hidden="true"></span>
         </a>
     </nav>
     
-    <!-- logo.html -->
-    <div id="logo">
-        <a href="https://blog.key-blogger.com/" aria-label="key-blogger | Blog" aria-description="Homepage">
+        <a id="logo" href="https://blog.key-blogger.com/" aria-label="key-blogger | Blog" aria-description="Homepage">
                 <img id="logomark" src="/images/logoalt2.svg" alt="key-blogger | Blog" />
         </a>
-        <hr class="hide"/>
-    </div>
     
     <details class="presentation" id="top-nav">
         <summary class="on-deck">
@@ -173,7 +171,6 @@
 
         </nav>
         <div id="top-nav-screen" class="screening js-cpn" role="presentation" aria-hidden="true"></div>
-        <hr class="hide"/>
     </details>
 </header>
     <main class="pagewidth" style="display: flex; flex-direction: column; min-height: var(--vbody);">
@@ -183,8 +180,10 @@
         </div>
     </main>
     <!-- footer.html -->
-<footer id="body-footer" class="pagewidth">
-    <div id="background-footer" class="background hide" role="presentation" aria-hidden="true"></div>
+<footer id="body-footer" class="pagewidth" style="display: none;">
+    <div id="background-footer" class="background hide" role="presentation" aria-hidden="true">
+        <div class="grain" hidden></div>
+    </div>
     <div id="focusMode"></div>
     <!-- a11y.html --><details id="has-a11y" class="presentation js-details hide" name="on-deck" aria-haspopup="true" aria-labelledby="has-a11y-summary"
     data-i18n-accessibility="Accessibility"
@@ -222,10 +221,11 @@
     <nav aria-label="Bypass">
         <a id="to-top" class="srm" href="#top" title="To Content Top" accesskey="c" aria-keyshortcuts="c" aria-label="To Content Top">
             <span class="t srt">To Content Top</span>
-            <kbd class="key" aria-hidden="true" data-key="c"></kbd>
+            <kbd class="key" aria-hidden="true">c</kbd>
         </a>
     </nav>
 </footer>
+
     <div id="background-body" role="presentation"></div>
 </body>
 </html>
