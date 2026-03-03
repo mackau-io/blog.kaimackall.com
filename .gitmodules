@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:mackau-io/blog.mackau-io.github.io.git
